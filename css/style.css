@@ -1,5 +1,5 @@
 body{
-    background-color: #E2DBBE;
+    background-color: #FFFFFF;
 }
 .my{
    width: 50%; 
@@ -18,7 +18,9 @@ h1{
    color: white;
 }
 .my img{
-    margin-top: 60px;
-    width: 80%;
+    margin-top: 30px;
+    width: 90%;
+border-radius: 50px;
+height: 370px;
 }
 
