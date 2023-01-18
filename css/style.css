@@ -1,8 +1,15 @@
+body{
+    background-color: #E2DBBE;
+}
 .my{
    width: 50%; 
    height: 600px;
-   background-color: brown;
+   background-color: #D5D6AA;
    margin: 0 auto;
-   margin-top: 70px;
+   margin-top: 80px;
    text-align: center;
+   color: #188FA7;
+   font-weight: 900;
+   font-size: 20px;
+   padding-top: 70px;
 }
