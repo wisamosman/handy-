@@ -4,15 +4,21 @@ body{
 .my{
    width: 50%; 
    height: 600px;
-   background-color: #D5D6AA;
+   background-color: #34273E;
    margin: 0 auto;
-   margin-top: 80px;
+   margin-top: 50px;
    text-align: center;
-   color: #188FA7;
+   color: #E4BADA;
    font-weight: 900;
    font-size: 20px;
    padding-top: 70px;
    border-radius: 50px;
 }
-
+h1{
+   color: white;
+}
+.my img{
+    margin-top: 60px;
+    width: 80%;
+}
 
